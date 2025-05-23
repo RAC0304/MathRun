@@ -31,13 +31,13 @@ import MateriPembagian from "./pages/materi/materikelas1_2/MateriPembagian";
 import MateriPerkalian from "./pages/materi/materikelas1_2/MateriPerkalian";
 import MateriPengurangan from "./pages/materi/materikelas1_2/MateriPengurangan";
 // Import komponen materi kelas 4 BAB 1
-import MateriBab1_1 from "./pages/materi/materikelas4/materikelas4_bab1/materiBab1_1";
-import MateriBab1_2 from "./pages/materi/materikelas4/materikelas4_bab1/materiBab1_2";
-import MateriBab1_3 from "./pages/materi/materikelas4/materikelas4_bab1/materiBab1_3";
-import MateriBab1_4 from "./pages/materi/materikelas4/materikelas4_bab1/Materi_Bab1_4";
-import MateriBab1_5 from "./pages/materi/materikelas4/materikelas4_bab1/Materi_Bab1_5";
-import MateriBab1_6 from "./pages/materi/materikelas4/materikelas4_bab1/Materi_Bab1_6";
-import MateriBab1_7 from "./pages/materi/materikelas4/materikelas4_bab1/Materi_Bab1_7";
+import MateriBab1_1 from "./pages/materi/materikelas4/Materikelas4_bab1/materiBab1_1";
+import MateriBab1_2 from "./pages/materi/materikelas4/Materikelas4_bab1/materiBab1_2";
+import MateriBab1_3 from "./pages/materi/materikelas4/Materikelas4_bab1/materiBab1_3";
+import MateriBab1_4 from "./pages/materi/materikelas4/Materikelas4_bab1/Materi_Bab1_4";
+import MateriBab1_5 from "./pages/materi/materikelas4/Materikelas4_bab1/Materi_Bab1_5";
+import MateriBab1_6 from "./pages/materi/materikelas4/Materikelas4_bab1/Materi_Bab1_6";
+import MateriBab1_7 from "./pages/materi/materikelas4/Materikelas4_bab1/Materi_Bab1_7";
 // Import komponen materi kelas 4 bab 2
 import MateriBab2_1 from "./pages/materi/materikelas4/Materikelas4_bab2/Materi_Bab2_1";
 import MateriBab2_2 from "./pages/materi/materikelas4/Materikelas4_bab2/Materi_Bab2_2";
